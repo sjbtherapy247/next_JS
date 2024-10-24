@@ -52,7 +52,7 @@ export default function MyApp(props) {
   // Open Graph Data
   const openGraphData = {
     type: 'website',
-    site_name: 'TRANCEform with Simon - Clinical Hypnosis',
+    site_name: 'TRANCEform Wellness',
     description: description || defaultDescription,
     title: title || defaultTitle,
     url: canonical || defaultUrl,
